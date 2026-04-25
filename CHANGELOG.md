@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/xozai/conventional-commits-test/compare/v2.0.3...v2.1.0) (2026-04-25)
+
+
+### Features
+
+* add countWords function ([#48](https://github.com/xozai/conventional-commits-test/issues/48)) ([659889e](https://github.com/xozai/conventional-commits-test/commit/659889eb2d661a43b14fc47942df6d7a01f846b3))
+
 ## [2.0.3](https://github.com/xozai/conventional-commits-test/compare/v2.0.2...v2.0.3) (2026-04-25)
 
 
