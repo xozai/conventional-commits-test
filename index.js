@@ -22,6 +22,10 @@ function reverse(message) {
   return message.split('').reverse().join('');
 }
 
+function capitalize(message) {
+  return message.charAt(0).toUpperCase() + message.slice(1).toLowerCase();
+}
+
 console.log(greet());
 console.log(farewell());
 console.log(shout(greet('Claude')));
