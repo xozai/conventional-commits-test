@@ -41,6 +41,9 @@ function pad(message, length, char = ' ') {
 
 function slugify(message) {
   return message.toLowerCase().trim().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+function countWords(message) {
+  if (!message || !message.trim()) return 0;
+  return message.trim().split(/\s+/).length;
 }
 
 console.log(greet());
