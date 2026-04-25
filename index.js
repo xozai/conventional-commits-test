@@ -6,7 +6,7 @@ function farewell(name = 'world') {
   return `Goodbye, ${name}!`;
 }
 
-function shout(message) {
+function toUpperCase(message) {
   return message.toUpperCase();
 }
 
@@ -39,7 +39,7 @@ function pad(message, length, char = ' ') {
 
 console.log(greet());
 console.log(farewell());
-console.log(shout(greet('Claude')));
+console.log(toUpperCase(greet('Claude')));
 console.log(whisper(farewell('Claude')));
 console.log(repeat(greet('Claude')));
 console.log(reverse(greet('Claude')));
