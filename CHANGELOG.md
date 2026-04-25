@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/xozai/conventional-commits-test/compare/v2.0.0...v2.0.1) (2026-04-25)
+
+
+### Bug Fixes
+
+* remove bump-minor-pre-major from release-please config ([#42](https://github.com/xozai/conventional-commits-test/issues/42)) ([0ae17ff](https://github.com/xozai/conventional-commits-test/commit/0ae17ffac03f839b65257f08a47b1ba0804cb1c5))
+
 ## [2.0.0](https://github.com/xozai/conventional-commits-test/compare/v1.0.0...v2.0.0) (2026-04-25)
 
 
