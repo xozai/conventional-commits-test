@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.1](https://github.com/xozai/conventional-commits-test/compare/v0.9.0...v0.9.1) (2026-04-25)
+
+
+### Bug Fixes
+
+* handle null and empty string in truncate ([#31](https://github.com/xozai/conventional-commits-test/issues/31)) ([c489807](https://github.com/xozai/conventional-commits-test/commit/c489807b35543bb4c3dcfdfdc5bf9ee1031253e7))
+
 ## [0.9.0](https://github.com/xozai/conventional-commits-test/compare/v0.8.2...v0.9.0) (2026-04-25)
 
 
