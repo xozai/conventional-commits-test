@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.2](https://github.com/xozai/conventional-commits-test/compare/v0.9.1...v0.9.2) (2026-04-25)
+
+
+### Bug Fixes
+
+* fall back to direct merge when Release PR is in clean status ([#33](https://github.com/xozai/conventional-commits-test/issues/33)) ([652309f](https://github.com/xozai/conventional-commits-test/commit/652309f9a33f51b94fc7b849a1ee60ae20e1e69d))
+
 ## [0.9.1](https://github.com/xozai/conventional-commits-test/compare/v0.9.0...v0.9.1) (2026-04-25)
 
 
