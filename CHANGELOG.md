@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/xozai/conventional-commits-test/compare/v0.3.0...v0.4.0) (2026-04-25)
+
+
+### Features
+
+* add shout function ([#9](https://github.com/xozai/conventional-commits-test/issues/9)) ([f607c93](https://github.com/xozai/conventional-commits-test/commit/f607c9398c1e553958c01659f52075e26d4d208f))
+
 ## [0.3.0](https://github.com/xozai/conventional-commits-test/compare/v0.2.0...v0.3.0) (2026-04-25)
 
 
