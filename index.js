@@ -11,6 +11,7 @@ function toUpperCase(message) {
 }
 
 function whisper(message) {
+  if (!message) return '';
   return message.toLowerCase();
 }
 
