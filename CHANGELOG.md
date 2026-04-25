@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.3](https://github.com/xozai/conventional-commits-test/compare/v0.9.2...v0.9.3) (2026-04-25)
+
+
+### Bug Fixes
+
+* handle zero and negative times in repeat ([#35](https://github.com/xozai/conventional-commits-test/issues/35)) ([a5da720](https://github.com/xozai/conventional-commits-test/commit/a5da720b342b423374270779a0940bda74cc9adf))
+
 ## [0.9.2](https://github.com/xozai/conventional-commits-test/compare/v0.9.1...v0.9.2) (2026-04-25)
 
 
