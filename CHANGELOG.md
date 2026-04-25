@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/xozai/conventional-commits-test/compare/v0.6.1...v0.7.0) (2026-04-25)
+
+
+### Features
+
+* add reverse function ([#19](https://github.com/xozai/conventional-commits-test/issues/19)) ([9ff3671](https://github.com/xozai/conventional-commits-test/commit/9ff36714338885cdda6dc0db2f15699e64a53772))
+
 ## [0.6.1](https://github.com/xozai/conventional-commits-test/compare/v0.6.0...v0.6.1) (2026-04-25)
 
 
