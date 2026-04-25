@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/xozai/conventional-commits-test/compare/v2.0.1...v2.0.2) (2026-04-25)
+
+
+### Bug Fixes
+
+* handle null and empty string in whisper ([#44](https://github.com/xozai/conventional-commits-test/issues/44)) ([e00519c](https://github.com/xozai/conventional-commits-test/commit/e00519c558090a6512541d8077b953c85aea186f))
+
 ## [2.0.1](https://github.com/xozai/conventional-commits-test/compare/v2.0.0...v2.0.1) (2026-04-25)
 
 
