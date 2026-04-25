@@ -7,6 +7,7 @@ function farewell(name = 'world') {
 }
 
 function toUpperCase(message) {
+  if (!message) return '';
   return message.toUpperCase();
 }
 
