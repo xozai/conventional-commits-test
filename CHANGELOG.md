@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.5.0](https://github.com/xozai/conventional-commits-test/compare/v0.4.0...v0.5.0) (2026-04-25)
+
+
+### Features
+
+* add whisper function ([#13](https://github.com/xozai/conventional-commits-test/issues/13)) ([c48bd9a](https://github.com/xozai/conventional-commits-test/commit/c48bd9aafc2934e758b0346695c1dddf6f46ea04))
+
+
+### Bug Fixes
+
+* report lint-pr-title check on Release PR to unblock auto-merge ([#14](https://github.com/xozai/conventional-commits-test/issues/14)) ([fea14aa](https://github.com/xozai/conventional-commits-test/commit/fea14aa1fc89df9ff0f1e1f58c0281b4ac96e3fe))
+* use pull_request_target so lint fires on release-please PRs ([#11](https://github.com/xozai/conventional-commits-test/issues/11)) ([e638f4e](https://github.com/xozai/conventional-commits-test/commit/e638f4e5d80957e302335e723bd62859f5016292))
+
 ## [0.4.0](https://github.com/xozai/conventional-commits-test/compare/v0.3.0...v0.4.0) (2026-04-25)
 
 
