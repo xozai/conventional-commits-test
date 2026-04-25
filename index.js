@@ -27,6 +27,7 @@ function capitalize(message) {
 }
 
 function truncate(message, maxLength = 20) {
+  if (!message) return '';
   return message.length <= maxLength ? message : message.slice(0, maxLength - 3) + '...';
 }
 
