@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.2](https://github.com/xozai/conventional-commits-test/compare/v0.8.1...v0.8.2) (2026-04-25)
+
+
+### Bug Fixes
+
+* add --repo flag to gh release create ([#27](https://github.com/xozai/conventional-commits-test/issues/27)) ([414f0a5](https://github.com/xozai/conventional-commits-test/commit/414f0a5088cc9babce276e4db1ce39f1990bf423))
+
 ## [0.8.1](https://github.com/xozai/conventional-commits-test/compare/v0.8.0...v0.8.1) (2026-04-25)
 
 
