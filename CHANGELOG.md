@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/xozai/conventional-commits-test/compare/v0.2.0...v0.3.0) (2026-04-25)
+
+
+### Features
+
+* add greet function with configurable name ([#2](https://github.com/xozai/conventional-commits-test/issues/2)) ([f227c06](https://github.com/xozai/conventional-commits-test/commit/f227c0649a2938fe759355a27b52156bec7bf43d))
+
+
+### Bug Fixes
+
+* pass --repo flag to gh pr merge in release-please workflow ([#4](https://github.com/xozai/conventional-commits-test/issues/4)) ([b513030](https://github.com/xozai/conventional-commits-test/commit/b51303029a65402dd6ea75bb3acdb39bf52f3eb0))
+
 ## [0.2.0](https://github.com/xozai/conventional-commits-test/compare/v0.1.0...v0.2.0) (2026-04-25)
 
 
