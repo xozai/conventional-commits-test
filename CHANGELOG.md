@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.1](https://github.com/xozai/conventional-commits-test/compare/v0.7.0...v0.7.1) (2026-04-25)
+
+
+### Bug Fixes
+
+* use pull_request_target for tag-release workflow ([#21](https://github.com/xozai/conventional-commits-test/issues/21)) ([d6fcdeb](https://github.com/xozai/conventional-commits-test/commit/d6fcdebf2a518520c3376e3bccd50e0fd51c43c0))
+
 ## [0.7.0](https://github.com/xozai/conventional-commits-test/compare/v0.6.1...v0.7.0) (2026-04-25)
 
 
