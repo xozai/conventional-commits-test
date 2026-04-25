@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.1](https://github.com/xozai/conventional-commits-test/compare/v0.8.0...v0.8.1) (2026-04-25)
+
+
+### Bug Fixes
+
+* inline tag and release creation in release-please workflow ([#25](https://github.com/xozai/conventional-commits-test/issues/25)) ([61b82a1](https://github.com/xozai/conventional-commits-test/commit/61b82a165d9b84b58664fcd4a66eb4db29a2d728))
+
 ## [0.8.0](https://github.com/xozai/conventional-commits-test/compare/v0.7.1...v0.8.0) (2026-04-25)
 
 
