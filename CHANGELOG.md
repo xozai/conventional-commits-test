@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/xozai/conventional-commits-test/compare/v2.1.0...v2.2.0) (2026-04-25)
+
+
+### Features
+
+* add slugify function ([#50](https://github.com/xozai/conventional-commits-test/issues/50)) ([d51a6b2](https://github.com/xozai/conventional-commits-test/commit/d51a6b2af0883b22b1b30499ea2303d47bab32d2))
+
 ## [2.1.0](https://github.com/xozai/conventional-commits-test/compare/v2.0.3...v2.1.0) (2026-04-25)
 
 
