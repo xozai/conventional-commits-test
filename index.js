@@ -39,6 +39,10 @@ function pad(message, length, char = ' ') {
                 .padEnd(length, char);
 }
 
+function slugify(message) {
+  return message.toLowerCase().trim().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+}
+
 console.log(greet());
 console.log(farewell());
 console.log(toUpperCase(greet('Claude')));
