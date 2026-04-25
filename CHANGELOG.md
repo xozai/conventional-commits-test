@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/xozai/conventional-commits-test/compare/v0.5.0...v0.6.0) (2026-04-25)
+
+
+### Features
+
+* add repeat function ([#15](https://github.com/xozai/conventional-commits-test/issues/15)) ([27c581a](https://github.com/xozai/conventional-commits-test/commit/27c581a8c9bb5504d50fe03088eb4846f81f24d8))
+
 ## [0.5.0](https://github.com/xozai/conventional-commits-test/compare/v0.4.0...v0.5.0) (2026-04-25)
 
 
