@@ -26,6 +26,10 @@ function capitalize(message) {
   return message.charAt(0).toUpperCase() + message.slice(1).toLowerCase();
 }
 
+function truncate(message, maxLength = 20) {
+  return message.length <= maxLength ? message : message.slice(0, maxLength - 3) + '...';
+}
+
 console.log(greet());
 console.log(farewell());
 console.log(shout(greet('Claude')));
