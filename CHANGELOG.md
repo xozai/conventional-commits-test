@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/xozai/conventional-commits-test/compare/v0.7.1...v0.8.0) (2026-04-25)
+
+
+### Features
+
+* add capitalize function ([#23](https://github.com/xozai/conventional-commits-test/issues/23)) ([7fafb14](https://github.com/xozai/conventional-commits-test/commit/7fafb1477f847b6e0fa21cc9d3589523da6838fb))
+
 ## [0.7.1](https://github.com/xozai/conventional-commits-test/compare/v0.7.0...v0.7.1) (2026-04-25)
 
 
