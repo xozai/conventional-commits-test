@@ -32,6 +32,11 @@ function truncate(message, maxLength = 20) {
   return message.length <= maxLength ? message : message.slice(0, maxLength - 3) + '...';
 }
 
+function pad(message, length, char = ' ') {
+  return message.padStart(Math.ceil((message.length + length) / 2), char)
+                .padEnd(length, char);
+}
+
 console.log(greet());
 console.log(farewell());
 console.log(shout(greet('Claude')));
