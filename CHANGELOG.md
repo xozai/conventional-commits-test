@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/xozai/conventional-commits-test/compare/v0.2.0...v0.3.0) (2026-04-25)
+
+
+### Features
+
+* add farewell function ([#6](https://github.com/xozai/conventional-commits-test/issues/6)) ([3409e20](https://github.com/xozai/conventional-commits-test/commit/3409e2071baba15710095c070ea15638f5ad7be0))
+
+
+### Bug Fixes
+
+* add reopened trigger to pr-title workflow ([#8](https://github.com/xozai/conventional-commits-test/issues/8)) ([e6726fc](https://github.com/xozai/conventional-commits-test/commit/e6726fcd9222fa894bf0cc50598ed2cce9df48f9))
+
 ## [0.2.0](https://github.com/xozai/conventional-commits-test/compare/v0.1.0...v0.2.0) (2026-04-25)
 
 
