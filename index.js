@@ -15,6 +15,7 @@ function whisper(message) {
 }
 
 function repeat(message, times = 2) {
+  if (times <= 0) return '';
   return Array(times).fill(message).join(' ');
 }
 
