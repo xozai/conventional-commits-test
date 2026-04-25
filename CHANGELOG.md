@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/xozai/conventional-commits-test/compare/v2.0.2...v2.0.3) (2026-04-25)
+
+
+### Bug Fixes
+
+* handle null and empty string in toUpperCase ([#46](https://github.com/xozai/conventional-commits-test/issues/46)) ([06d6b18](https://github.com/xozai/conventional-commits-test/commit/06d6b18d423d685c2557881e4d98668fcaa10d68))
+
 ## [2.0.2](https://github.com/xozai/conventional-commits-test/compare/v2.0.1...v2.0.2) (2026-04-25)
 
 
