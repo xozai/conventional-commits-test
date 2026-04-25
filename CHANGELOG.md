@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/xozai/conventional-commits-test/compare/v1.0.0...v2.0.0) (2026-04-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* shout() has been renamed to toUpperCase(). Update all call sites.
+
+### Features
+
+* rename shout to toUpperCase ([#40](https://github.com/xozai/conventional-commits-test/issues/40)) ([ae0b1f9](https://github.com/xozai/conventional-commits-test/commit/ae0b1f9f702fc6c1c4cfd5bb4613c4ae8bd6cbf9))
+
 ## [0.10.0](https://github.com/xozai/conventional-commits-test/compare/v0.9.3...v0.10.0) (2026-04-25)
 
 
