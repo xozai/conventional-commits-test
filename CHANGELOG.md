@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.0](https://github.com/xozai/conventional-commits-test/compare/v0.9.3...v0.10.0) (2026-04-25)
+
+
+### Features
+
+* add pad function ([#37](https://github.com/xozai/conventional-commits-test/issues/37)) ([ba50f81](https://github.com/xozai/conventional-commits-test/commit/ba50f8151ec1514c05d2bddbec7b737cd470ed52))
+
 ## [0.9.3](https://github.com/xozai/conventional-commits-test/compare/v0.9.2...v0.9.3) (2026-04-25)
 
 
