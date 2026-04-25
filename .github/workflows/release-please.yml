@@ -59,6 +59,7 @@ jobs:
                 -f ref="refs/tags/v$VERSION" \
                 -f sha="$MERGE_SHA"
               gh release create "v$VERSION" \
+                --repo "$GITHUB_REPOSITORY" \
                 --title "v$VERSION" \
                 --target main \
                 --notes "$BODY"
