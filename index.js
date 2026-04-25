@@ -39,6 +39,11 @@ function pad(message, length, char = ' ') {
                 .padEnd(length, char);
 }
 
+function countWords(message) {
+  if (!message || !message.trim()) return 0;
+  return message.trim().split(/\s+/).length;
+}
+
 console.log(greet());
 console.log(farewell());
 console.log(toUpperCase(greet('Claude')));
