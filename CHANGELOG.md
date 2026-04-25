@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/xozai/conventional-commits-test/compare/v0.6.0...v0.6.1) (2026-04-25)
+
+
+### Bug Fixes
+
+* add tag-release workflow triggered on release PR merge ([#17](https://github.com/xozai/conventional-commits-test/issues/17)) ([738bb29](https://github.com/xozai/conventional-commits-test/commit/738bb290a492ab082f14ef52b6529269cf8362a3))
+
 ## [0.6.0](https://github.com/xozai/conventional-commits-test/compare/v0.5.0...v0.6.0) (2026-04-25)
 
 
