@@ -10,6 +10,11 @@ function shout(message) {
   return message.toUpperCase();
 }
 
+function whisper(message) {
+  return message.toLowerCase();
+}
+
 console.log(greet());
 console.log(farewell());
 console.log(shout(greet('Claude')));
+console.log(whisper(farewell('Claude')));
