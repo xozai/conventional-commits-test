@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.0](https://github.com/xozai/conventional-commits-test/compare/v0.8.2...v0.9.0) (2026-04-25)
+
+
+### Features
+
+* add truncate function ([#29](https://github.com/xozai/conventional-commits-test/issues/29)) ([6b9d4da](https://github.com/xozai/conventional-commits-test/commit/6b9d4daf12b2ba1ae2e21ca85ffd11feb8aee6c7))
+
 ## [0.8.2](https://github.com/xozai/conventional-commits-test/compare/v0.8.1...v0.8.2) (2026-04-25)
 
 
